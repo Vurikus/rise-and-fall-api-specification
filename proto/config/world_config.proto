@@ -2,6 +2,8 @@ syntax = "proto3";
 
 package proto.config;
 
+option java_multiple_files = true;
+
 message WorldConfiguration {
   float radius = 1;
   int32 count_hex = 2;

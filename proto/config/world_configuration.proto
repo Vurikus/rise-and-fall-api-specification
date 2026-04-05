@@ -7,4 +7,5 @@ option java_outer_classname = "WorldConfigurationProto";
 
 message WorldConfiguration {
   int32 world_size = 1;
+  int32 map_type = 2;
 }

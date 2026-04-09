@@ -3,10 +3,10 @@ syntax = "proto3";
 package proto.world;
 
 option java_multiple_files = true;
-option java_outer_classname = "MapProto";
+option java_outer_classname = "MapProtoOuter";
 
 import "proto/world/tile.proto";
 
-message Map {
-  repeated proto.world.Tile tiles = 1;
+message MapProto {
+  repeated proto.world.TileProto tiles = 1;
 }

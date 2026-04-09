@@ -3,10 +3,10 @@ syntax = "proto3";
 package proto.common;
 
 option java_multiple_files = true;
-option java_outer_classname = "ObjectTypeProto";
+option java_outer_classname = "ObjectTypeProtoOuter";
 
 // Типы сообщений
-enum ObjectType {
+enum ObjectTypeProto {
   UNKNOWN = 0;
   WORLD_CONFIGURATION = 1;
   WORLD = 2;

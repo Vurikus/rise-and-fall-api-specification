@@ -3,9 +3,9 @@ syntax = "proto3";
 package proto.world;
 
 option java_multiple_files = true;
-option java_outer_classname = "TileKeyProto";
+option java_outer_classname = "TileKeyProtoOuter";
 
-message TileKey {
+message TileKeyProto {
   string id = 1;
   float xNormal = 2;
   float yNormal = 3;

@@ -3,11 +3,11 @@ syntax = "proto3";
 package proto.common;
 
 option java_multiple_files = true;
-option java_outer_classname = "EnvelopeProto";
+option java_outer_classname = "EnvelopeProtoOuter";
 
 import "proto/common/object_type.proto";
 
-message Envelope {
-  proto.common.ObjectType type = 1;
+message EnvelopeProto {
+  proto.common.ObjectTypeProto type = 1;
   bytes data = 2;
 }

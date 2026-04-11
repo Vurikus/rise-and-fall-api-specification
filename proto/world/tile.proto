@@ -10,7 +10,6 @@ import "proto/world/relief_type.proto";
 import "proto/world/tile_key.proto";
 
 message TileProto {
-  string id = 1;
   proto.world.TileKeyProto key = 2;
   proto.world.ReliefTypeProto mt1Relief = 3;
   proto.world.ReliefTypeProto mt2Relief = 4;

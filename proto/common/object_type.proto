@@ -7,7 +7,10 @@ option java_outer_classname = "ObjectTypeProtoOuter";
 
 // Типы сообщений
 enum ObjectTypeProto {
-  UNKNOWN = 0;
-  WORLD_CONFIGURATION = 1;
-  WORLD = 2;
+  Unknown = 0;
+  WorldConfiguration = 1;
+  World = 2;
+  Map = 3;
+  Tile = 4;
+  TileKey = 5;
 }

@@ -27,13 +27,16 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "craftInputRules": [
-      [
-        {
-          "modelType": "CraftProperty",
-          "modelName": "cattle",
-          "volume": 1
-        }
-      ]
+      {
+        "resolveBy": "Property",
+        "craftInput": [
+          {
+            "modelType": "CraftProperty",
+            "modelName": "cattle",
+            "volume": 1
+          }
+        ]
+      }
     ],
     "passiveProduction": null,
     "workerProduction": {

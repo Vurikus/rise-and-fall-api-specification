@@ -3,7 +3,7 @@
     "modelName": "domesticateAnimal",
     "displayName": "TXT_CRAFT_TOOL_DOMESTICATE_ANIMAL",
     "canUseProductCategories": [
-      "ANIMAL"
+      "WILD_ANIMAL"
     ],
     "openProperties": [
       "cattle"
@@ -16,7 +16,7 @@
     "modelName": "inspect",
     "displayName": "TXT_CRAFT_TOOL_INSPECT",
     "canUseProductCategories": [
-      "ANIMAL"
+      "WILD_ANIMAL"
     ],
     "openProperties": [
       "perishable"

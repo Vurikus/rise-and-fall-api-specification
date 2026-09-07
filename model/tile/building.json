@@ -26,6 +26,15 @@
     "educated": 0,
     "requiredStatePoints": [],
     "requiredResources": [],
+    "craftInputRules": [
+      [
+        {
+          "modelType": "CraftProperty",
+          "modelName": "cattle",
+          "volume": 1
+        }
+      ]
+    ],
     "passiveProduction": null,
     "workerProduction": {
       "workers": 2,

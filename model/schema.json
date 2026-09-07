@@ -79,7 +79,7 @@
     ],
     "costProductPerSingleUse": [
       {
-        "modelName": "key - productModelName",
+        "product": "key - productModelName",
         "volume": "float"
       }
     ],

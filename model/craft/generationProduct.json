@@ -1,6 +1,6 @@
 [
   {
-    "category": "ANIMAL",
+    "category": "WILD_ANIMAL",
     "maxCountPropertyPerProduct": 3,
     "availablePropertyPool": [
       "cattle",

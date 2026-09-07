@@ -2,10 +2,11 @@
   {
     "modelName": "sheep",
     "displayName": "TXT_RESOURCE_SHEEP",
-    "category": "ANIMAL",
+    "category": "WILD_ANIMAL",
     "properties": [
       {
-        "property": "cattle",
+        "modelType": "CraftProperty",
+        "modelName": "cattle",
         "volume": 1
       }
     ]

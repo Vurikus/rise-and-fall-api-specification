@@ -16,6 +16,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -35,6 +36,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -54,6 +56,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -73,6 +76,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -92,6 +96,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -111,6 +116,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -130,6 +136,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -149,6 +156,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": "town"
   },
   {
@@ -168,6 +176,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": "nomadSettlement"
   },
   {
@@ -187,6 +196,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": "town"
   },
   {
@@ -205,6 +215,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -223,6 +234,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -241,6 +253,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -259,6 +272,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -277,6 +291,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -295,6 +310,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -313,6 +329,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": "castle"
   },
   {
@@ -331,6 +348,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": ["fortification"],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -349,6 +367,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -367,6 +386,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -385,6 +405,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -403,6 +424,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -421,6 +443,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -439,6 +462,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -457,6 +481,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -475,6 +500,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -496,6 +522,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -514,6 +541,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -532,6 +560,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -550,6 +579,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -568,6 +598,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -586,6 +617,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -604,6 +636,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -622,6 +655,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -640,6 +674,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -658,6 +693,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -676,6 +712,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -694,6 +731,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -712,6 +750,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -730,6 +769,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -748,6 +788,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -766,6 +807,7 @@
     "requiredStatePoints": [],
     "requiredResources": [],
     "fromUpgrade": ["nomadSettlement","settlement"],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   },
   {
@@ -789,6 +831,7 @@
       }
     ],
     "fromUpgrade": [],
+    "produceConsumeStrategy": "WAREHOUSE",
     "upgradeOn": null
   }
 ]
